@@ -1,0 +1,12 @@
+D:\VS\ViewDesign\ViewDesign\bin\Debug\ViewDesign.exe.config
+D:\VS\ViewDesign\ViewDesign\bin\Debug\ViewDesign.exe
+D:\VS\ViewDesign\ViewDesign\bin\Debug\ViewDesign.pdb
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.csproj.AssemblyReference.cache
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.Properties.Resources.resources
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.csproj.GenerateResource.cache
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.csproj.CoreCompileInputs.cache
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.exe
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.pdb
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.ViewPrincipal.resources
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.BaseForm.resources
+D:\VS\ViewDesign\ViewDesign\obj\Debug\ViewDesign.ViewMain.resources
